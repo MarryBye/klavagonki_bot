@@ -1,0 +1,14 @@
+{
+      "wait_Min": 0.015,
+      "wait_Max": 0.09,
+      "wait_OnError_Min": 0.2,
+      "wait_OnError_Max": 0.5,
+      "wait_Before_Write": 1,
+      "wait_keyRelease": 0.015,
+      "error_Chance_Percent": 2,
+      "enabled_Languages": "rus",
+      "points_Select_Key": "f4",
+      "activate_Bot": "insert",
+      "stop_Bot": "esc",
+      "show_Settings_On_StartUp": true
+}

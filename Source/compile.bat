@@ -1,0 +1,1 @@
+pyinstaller -F -i "C:\Users\MarryBye\Desktop\daun\icon.ico" klavagonki_cheat.py
